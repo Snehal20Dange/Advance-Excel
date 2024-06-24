@@ -11,9 +11,9 @@ Which channel is contributing to maximum sales?
 Highest selling category?
 
 Insights:
-Women are more like to buy compared to men i.e. 65%
-Maharashtra, Karnataka and Uttar Pradesh are the top 3 states 35%
-Adult age group 30-49 years is max contributing 50%
-Amazon, Flipkart and Myntra channels are max contributing 80%
+**Women** are more like to buy compared to men i.e. **65%**
+**Maharashtra, Karnataka and Uttar Pradesh** are the top 3 states **35%**
+Adult age group **30-49 years** is max contributing **50%**
+**Amazon, Flipkart and Myntra channels** are max contributing **80%**
 
-So, considering the above factors we should focus on women customers of age group 30-49 years living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Myntra and Flipkart too.
+So, considering the above factors we should focus on **women** **customers** of age group **30-49 years** living in **Maharashtra, Karnataka and Uttar Pradesh** by showing **ads/offers/coupons** available on **Amazon, Myntra and Flipkart** too.
