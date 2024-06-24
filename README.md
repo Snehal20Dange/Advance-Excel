@@ -1,5 +1,5 @@
 # Advance-Excel
-Objective: Vrinda stores wants to create annual sales report for 2022. So that they understand their customers and grow more sales in 2023.
+Objective: Vrinda stores wants to create annual sales report for 2022. So that they **understand their customers and grow more sales** in 2023.
 Sample Questions: 
 Compare the sales and orders using single chart.
 Which month got the highest sales and orders?
